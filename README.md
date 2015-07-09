@@ -1,6 +1,6 @@
 # leeHelloWord
-my first test project
+my first test project welocome~
 
-how are you
+how are you?
 
-fine thank you
+fine! thank you~
