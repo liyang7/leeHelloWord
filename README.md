@@ -1,4 +1,6 @@
 # leeHelloWord
-my test project
+my first test project
 
 how are you
+
+fine thank you
